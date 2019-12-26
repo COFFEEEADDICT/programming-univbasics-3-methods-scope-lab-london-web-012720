@@ -14,7 +14,7 @@ def link
   puts link_line
 end
 
-def any_phrae(input)
+def any_phrase(input)
   answer = input
   puts answer
 end
