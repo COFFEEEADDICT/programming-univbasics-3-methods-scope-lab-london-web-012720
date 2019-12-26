@@ -15,5 +15,6 @@ def link
 end
 
 def any_phrae(input)
-  puts input
+  answer = input
+  puts answer
 end
