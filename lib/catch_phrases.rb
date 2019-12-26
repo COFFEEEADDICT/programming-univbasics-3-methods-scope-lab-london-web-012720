@@ -13,3 +13,7 @@ def link
   link_line =  "It's Dangerous To Go Alone! Take This."
   puts link_line
 end
+
+def any_phrae(input)
+  puts input
+end
